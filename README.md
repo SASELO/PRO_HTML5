@@ -1,6 +1,156 @@
 PRO_HTML5
 =========
 
-PROYECTO PARA EL CURSO HTML5 @ UNI. LA SALLE
+************************************************
+***PROYECTO FINAL PARA CURSO HTML5 @ LA SALLE***
+************************************************
 
-ESTA ES LA BUENA
+-----------
+---THEME---
+-----------
+
+>DANZA ARABE
+
+-----------------
+---DESCRIPTION---
+-----------------
+
+>SITIO QUE MUESTRA LAS DISTINTAS ACTIVIDADES, QUE LLEVAN A CABO, LOS GRUPOS DE DANZA ARABE, DE LA MAESTRA IMALU YANUEN, PRINCIPALMENTE EL GRUPO DE DANZA ARABE DE LA CASA DE LA CULTURA DE LEON.
+
+----------------
+---REPOSITORY---
+----------------
+	
+>https://github.com/SASELO/PRO_HTML5/
+
+------------
+---LAYOUT---
+------------
+
+>GUIDE
+	http://themeforest.net/item/surreal-responsive-parallax-one-page-html5/4252333
+	http://html5css3templates.com/themes/surrealstudio/templates/index-white.html	
+
+>MOCKUP	
+	https://gomockingbird.com/mockingbird/#h82f0ud (for View)
+	ó
+	Seguir pasos en invitacion por correo de MockingBird (for Edit)
+
+	y
+	Abrir Proyecto HTML5_YANUEN
+
+---------------
+---STRUCTURE---
+---------------
+	
+>CATEGORIES
+	-INICIO
+		FOTO
+	
+	-CLASES
+		FOTOS
+		VIDEOS
+		TE PLATICO
+	
+	-PRESENTACIONES
+		PRESENTACION 01
+			FOTOS
+			VIDEOS
+			TE PLATICO
+		PRESENTACION 02
+			FOTOS
+			VIDEOS
+			TE PLATICO
+		PRESENTACION 03
+			FOTOS
+			VIDEOS
+			TE PLATICO
+		...
+		PROXIMAS PRESENTACIONES
+		
+	-BELLYDANCE
+		ORIGENES
+		FIGURAS BASICAS
+		ASOCIACIONES
+		CONGRESOS
+		COMPETENCIAS
+		
+	-ACERCA DE
+		STAFF
+			FOTO - NOMBRE
+		CONTACTO
+			MENSAJE	(FORMULARIO)
+			CORREO
+			TELEFONO FIJO
+			TELEFONO CELULAR
+			DIRECCION
+			SOCIAL FOLLOW (FB, G+, TW, YT, ...)	
+		TE PLATICO
+		
+	-BLOG
+		MENSUAL
+		
+>MODULES
+	-SOCIAL FOLLOW (ADD THIS)
+
+	-SOCIAL SHARE (ADD THIS)
+
+	-ADDS
+		PROXIMOS EVENTOS
+		INVITACION A PARTICIPAR
+		ANUNCIANTES
+
+	-COMMENTS (DISQUS)
+	
+>TECH
+	-HTML5
+
+	-ADDTHIS
+
+	-DISQUS
+
+	-GALLERY ()
+
+	-POP UP ()
+
+	-YOUTUBE
+
+---------------
+---SITE NAME---
+---------------
+
+>POSIBLES
+	.YANUEN.
+	.BD_YANUEN.
+	YANUEN_BD.
+	.BELLY_YANUEN.
+	.YANUEN_BELLY.
+	.BELLYDANCER_YANUEN.
+	.YANUEN_BELLYDANCER.
+	.BELLY_DANCER_YANUEN.
+	.YANUEN_BELLY_DANCER.
+	DANZA_ARABE_YANUEN.
+	
+>DETALLES
+	DANCER PUEDE SER CON 'S
+	TODOS CON WWW
+	DOMINIOS POSIBLES .COM .COM.MX
+	EN VEZ DE _ PUEDE SER -
+
+------------
+---REVIEW---
+------------
+
+>ISTOCKPHOTO
+	BELLYDANCER
+	ARABIAN
+	ARABIAN DANCER
+	7 VELOS
+	DANZA DEL VIENTRE
+	PRINCESA ALADIN
+
+>VIDEOS
+	VIDEO DE TIENDA DE ARABE DE SORIANA
+	CONCEPTOS EN YOU TUBE
+
+>PAGINAS
