@@ -1,0 +1,100 @@
+/* Layout 
+--------------------------------------------------------*/
+
+.page {
+	background:#fff; 
+	background-attachment:scroll;
+	padding-top: 100px;
+	position:relative;
+	overflow:hidden;
+	z-index:2;
+}
+
+/* Inicio
+--------------------------------------------------------*/
+
+#inicio {
+    height: 100%;
+}
+
+.inicio {
+	position:relative;
+	overflow:hidden;
+	z-index:1;
+	/* margin-bottom: -70px; */
+}
+
+/* Clases
+--------------------------------------------------------*/
+
+#clases {
+	padding-top: 60px;
+}
+
+.clasesContainer {
+	padding-bottom: 100px;
+}
+
+/* Presentaciones
+--------------------------------------------------------*/
+
+#presentaciones {
+	padding-top: 60px;
+}
+
+.presentacionesContainer {
+	padding-bottom: 100px;
+}
+
+/* Bellydance
+--------------------------------------------------------*/
+
+#bellydance {
+	padding-top: 60px;
+}
+
+.bellydanceContainer {
+	padding-bottom: 100px;
+}
+
+/* AcercaDe
+--------------------------------------------------------*/
+
+#acercade {
+	padding-top: 60px;
+}
+
+.acercadeContainer {
+	padding-bottom: 100px;
+}
+
+/* Blog 
+--------------------------------------------------------*/
+
+#blog {
+	padding-top: 60px;
+}
+.blogContainer {
+	padding-bottom: 100px;
+}
+
+/* parallax
+--------------------------------------------------------*/
+
+.parallax{
+	background-attachment:fixed;
+	background-repeat:no-repeat; 
+	border-bottom:10px solid rgba(255,255,255,0.3);
+	border-top:10px solid rgba(255,255,255,0.3);
+	color:#fff;  
+	height:480px; 
+	margin:0;
+	padding:0;
+	position:relative;
+	text-align:center;
+	width:100%;
+}
+
+.parallax.fixed{
+	background-attachment:fixed;
+}
